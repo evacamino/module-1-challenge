@@ -125,7 +125,15 @@ main {
     color: #ffffff;
 }
 
-.search img {
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
     max-height: 200px;
 }
 
